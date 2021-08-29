@@ -1,6 +1,7 @@
 # brew
 
 A new Flutter application.
+Android/Ios app for remebering the type of coffe your friends like
 
 ## Getting Started
 
